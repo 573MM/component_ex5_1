@@ -1,0 +1,5 @@
+com\mycompany\footballevent\Subscriber.class
+com\mycompany\footballevent\ScoreListener.class
+com\mycompany\footballevent\FootballEvent.class
+com\mycompany\footballevent\ScoreEvent.class
+com\mycompany\footballevent\ScoreSoure.class
